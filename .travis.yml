@@ -8,7 +8,7 @@ script: "rake mysql:test"
 
 rvm:
   - 1.9.3
-  #- 2.0.2
+  - 2.0.0
   - 2.1.2
 env:
   - RAILS_VERSION=4.1.0
